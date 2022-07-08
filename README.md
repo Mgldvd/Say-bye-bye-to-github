@@ -6,7 +6,7 @@
 
 ---
 
-![Gitlab](./img/nogithub.png)
+![Gitlab]([./img/nogithub.png](https://raw.githubusercontent.com/Mgldvd/Say-bye-bye-to-github/master/img/nogithub.png))
 
 Some reasons why: 
 - https://jacquesmattheij.com/what-is-wrong-with-microsoft-buying-github
